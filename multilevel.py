@@ -21,3 +21,6 @@ class ubantu(operatingSystem):
  child.mac()
  child.windows()
  
+ a = ["infy","wipro","tcs"]
+b = a.copy()
+print(a)
