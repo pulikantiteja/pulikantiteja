@@ -1,3 +1,7 @@
 python pytest pacages
 import
 webdriver
+
+def login(self,id):
+    print("ligin web page")
+login(1)
